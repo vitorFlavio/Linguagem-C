@@ -1,1 +1,1 @@
-Guia Linguagem-C.
+Guia Básico Linguagem-C.
